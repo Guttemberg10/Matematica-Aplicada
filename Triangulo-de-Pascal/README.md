@@ -11,7 +11,7 @@ A base do Triângulo de Pascal é a **fórmula da combinação simples**, que ca
 A fórmula é dada por:
 
 <p align="center"><strong>
-C<sub>n,p</sub> = n! / [p! × (n - p)!]
+$\displaystyle C_{n,p} = \frac{n!}{p!(n - p)!}$
 </strong></p>
 
 Onde:
