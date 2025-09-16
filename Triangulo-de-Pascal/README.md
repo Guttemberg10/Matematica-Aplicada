@@ -39,12 +39,14 @@ O Triângulo de Pascal é uma estrutura triangular composta por números inteiro
 
 ### Exemplo até a 5ª linha:
 
-1
-1 1
-1 2 1
-1 3 3 1
-1 4 6 4 1
+```text
+       1
+      1 1
+     1 2 1
+    1 3 3 1
+   1 4 6 4 1
 
+```
 
 Cada valor pode ser obtido por `C(n, p)`, onde `n` é o número da linha (começando do 0) e `p` é a posição na linha.
 
@@ -65,12 +67,13 @@ O algoritmo em Python desenvolvido faz o seguinte:
 
 ### 🧪 Exemplo de execução:
 Digite a quantidade de linhas que deseja ver: 5
+```
 1
 1 1
 1 2 1
 1 3 3 1
 1 4 6 4 1
-
+```
 
 ---
 
