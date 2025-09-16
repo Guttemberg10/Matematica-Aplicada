@@ -10,9 +10,9 @@ A base do Triângulo de Pascal é a **fórmula da combinação simples**, que ca
 
 A fórmula é dada por:
 
-<p align="center"><strong>
-$\displaystyle C_{n,p} = \frac{n!}{p!(n - p)!}$
-</strong></p>
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.image?\dpi{150}&space;\huge&space;C_{n,p}&space;=&space;\frac{n!}{p!(n&space;-&space;p)!}" alt="Fórmula da combinação simples">
+</p>
 
 Onde:
 
