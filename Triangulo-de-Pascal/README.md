@@ -11,7 +11,7 @@ A base do Triângulo de Pascal é a **fórmula da combinação simples**, que ca
 A fórmula é dada por:
 
 <p align="center">
-  <img src="https://latex.codecogs.com/svg.image?\dpi{150}&space;\huge&space;C_{n,p}&space;=&space;\frac{n!}{p!(n&space;-&space;p)!}" alt="Fórmula da combinação simples">
+  <img src="https://latex.codecogs.com/svg.image?\dpi{150}&space;\color{White}\huge&space;C_{n,p}&space;=&space;\frac{n!}{p!(n&space;-&space;p)!}" alt="Fórmula da combinação simples">
 </p>
 
 Onde:
